@@ -185,4 +185,4 @@ python3 balance.py --netloc ADDRESS1 ADDRESS2 --bind '0.0.0.0:44966' --threads 1
 
 ## Generate Fake Handwriting Images as Additional Data
 
-See [Generate Fake Handwriting Images Using CycleGAN](cyclegan).
+See [Generate Fake Handwriting Images Using CycleGAN](cycleGAN).
